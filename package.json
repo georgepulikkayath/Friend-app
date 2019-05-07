@@ -1,0 +1,24 @@
+{
+  "name": "friend-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgepulikkayath/Friend-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgepulikkayath/Friend-app/issues"
+  },
+  "homepage": "https://github.com/georgepulikkayath/Friend-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
